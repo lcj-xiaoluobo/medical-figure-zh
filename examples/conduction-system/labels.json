@@ -1,0 +1,130 @@
+{
+  "description": "原创简化示意图；英文版和中文版由同一场景参数分别生成，展示术语与标签排版，不是 OCR 或自动修复能力的基准测试。",
+  "dimensions": [
+    1200,
+    680
+  ],
+  "authority": "《心血管病学名词（2025）》征求意见稿；03.02 心血管解剖学",
+  "labels": [
+    {
+      "english": "Sinoatrial node",
+      "chinese": "窦房结",
+      "code": "03.052",
+      "text_anchor": [
+        325,
+        181
+      ],
+      "leader_points": [
+        [
+          341,
+          193
+        ],
+        [
+          379,
+          220
+        ],
+        [
+          451,
+          220
+        ]
+      ],
+      "alignment": "left"
+    },
+    {
+      "english": "Atrioventricular node",
+      "chinese": "房室结",
+      "code": "03.053",
+      "text_anchor": [
+        325,
+        276
+      ],
+      "leader_points": [
+        [
+          341,
+          288
+        ],
+        [
+          390,
+          288
+        ],
+        [
+          545,
+          320
+        ]
+      ],
+      "alignment": "left"
+    },
+    {
+      "english": "His bundle",
+      "chinese": "希氏束",
+      "code": "03.057",
+      "text_anchor": [
+        875,
+        331
+      ],
+      "leader_points": [
+        [
+          860,
+          343
+        ],
+        [
+          745,
+          343
+        ],
+        [
+          558,
+          361
+        ]
+      ],
+      "alignment": "right"
+    },
+    {
+      "english": "Right bundle branch",
+      "chinese": "右束支",
+      "code": "03.059",
+      "text_anchor": [
+        325,
+        491
+      ],
+      "leader_points": [
+        [
+          341,
+          503
+        ],
+        [
+          390,
+          503
+        ],
+        [
+          483,
+          451
+        ]
+      ],
+      "alignment": "left"
+    },
+    {
+      "english": "Left bundle branch",
+      "chinese": "左束支",
+      "code": "03.058",
+      "text_anchor": [
+        875,
+        491
+      ],
+      "leader_points": [
+        [
+          860,
+          503
+        ],
+        [
+          750,
+          503
+        ],
+        [
+          622,
+          455
+        ]
+      ],
+      "alignment": "right"
+    }
+  ]
+}
