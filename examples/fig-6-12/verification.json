@@ -1,0 +1,22 @@
+{
+  "source_size": [
+    1134,
+    1042
+  ],
+  "output_size": [
+    1134,
+    1042
+  ],
+  "anatomical_label_occurrences": 27,
+  "orientation_groups": 4,
+  "unmodified_orientation_cross": true,
+  "unchanged_specimen_color_pixels": true,
+  "changed_pixels": 122342,
+  "unchanged_pixels_outside_label_edit_mask": true,
+  "source_ocr_corrections": {
+    "Left arial appendage": "Left atrial appendage",
+    "ventricular outflow tact": "ventricular outflow tract",
+    "papillary muscie": "papillary muscle"
+  },
+  "status": "verified_example"
+}

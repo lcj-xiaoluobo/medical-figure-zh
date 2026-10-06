@@ -1,0 +1,545 @@
+[
+  {
+    "source_ocr_indices": [
+      0
+    ],
+    "source": "Brachiocephalic artery",
+    "chinese_lines": [
+      "头臂动脉"
+    ],
+    "box": [
+      181.676839596354,
+      31.32060015037257,
+      360.28703857096343,
+      54.269488929059094
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      1
+    ],
+    "source": "Aortic arch",
+    "chinese_lines": [
+      "主动脉弓"
+    ],
+    "box": [
+      473.70759808284447,
+      21.85708399950885,
+      562.2214988396804,
+      39.9863431090059
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      2
+    ],
+    "source": "Ascending aorta",
+    "chinese_lines": [
+      "升主动脉"
+    ],
+    "box": [
+      543.6914677413853,
+      97.81556430655905,
+      674.2550511154086,
+      119.07233348685689
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      10,
+      11
+    ],
+    "source": "Superior aortic recess / (Aorto-caval recess)",
+    "chinese_lines": [
+      "主动脉上隐窝",
+      "（主动脉-腔静脉隐窝）"
+    ],
+    "box": [
+      167.99999730000008,
+      136.00000021017053,
+      337.9999973,
+      175.999999775
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      12
+    ],
+    "source": "Right pulmonary artery",
+    "chinese_lines": [
+      "右肺动脉"
+    ],
+    "box": [
+      17.766315751766555,
+      279.8424784193804,
+      196.208072953915,
+      302.10455288990045
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      13
+    ],
+    "source": "Transverse sinus",
+    "chinese_lines": [
+      "心包横窦"
+    ],
+    "box": [
+      89.73406099737787,
+      341.7972423630832,
+      222.2366549915185,
+      361.9310743409275
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      14
+    ],
+    "source": "Left anterior descending artery",
+    "chinese_lines": [
+      "前降支"
+    ],
+    "box": [
+      -0.1664163456662351,
+      395.69096722861707,
+      240.14260465042753,
+      416.6180645491737
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      15
+    ],
+    "source": "Left circumflex artery",
+    "chinese_lines": [
+      "左回旋支"
+    ],
+    "box": [
+      63.80597107507509,
+      432.583991270301,
+      234.20906250573915,
+      452.33288310074533
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      16
+    ],
+    "source": "Left arial appendage",
+    "chinese_lines": [
+      "左心耳"
+    ],
+    "box": [
+      37.67911583380483,
+      465.51936854116235,
+      204.28522545294544,
+      488.4058965562991
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      17
+    ],
+    "source": "Warfarin ridge",
+    "chinese_lines": [
+      "华法林嵴"
+    ],
+    "box": [
+      39.60141121980686,
+      502.3607555375407,
+      154.34436165926002,
+      522.9135318742107
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      18
+    ],
+    "source": "Pulmonary trunk",
+    "chinese_lines": [
+      "肺动脉干"
+    ],
+    "box": [
+      635.9999999015151,
+      315.9999999863636,
+      773.9999999015151,
+      333.99999998636366
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      19
+    ],
+    "source": "Left adjacent pulmonary leaflet",
+    "chinese_lines": [
+      "左邻接肺动脉瓣叶"
+    ],
+    "box": [
+      667.999999901626,
+      349.9999999926829,
+      925.9999999016259,
+      367.99999999268294
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      20
+    ],
+    "source": "Non-adjacent pulmonary leaflet",
+    "chinese_lines": [
+      "非邻接肺动脉瓣叶"
+    ],
+    "box": [
+      705.9999998921054,
+      383.9999999912281,
+      951.9999998921053,
+      403.9999999912281
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      21,
+      22
+    ],
+    "source": "Posterior free wall of the / right ventricular outflow tract",
+    "chinese_lines": [
+      "右心室流出道",
+      "后游离壁"
+    ],
+    "box": [
+      723.9999998999999,
+      431.9999999909091,
+      953.9999998999999,
+      471.99999999203544
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      23
+    ],
+    "source": "Left ventricular summit",
+    "chinese_lines": [
+      "左心室顶部"
+    ],
+    "box": [
+      23.99999825000003,
+      631.999999775,
+      207.99999825000003,
+      649.9999997749999
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      24
+    ],
+    "source": "Left anterior descending artery",
+    "chinese_lines": [
+      "前降支"
+    ],
+    "box": [
+      781.8133763378971,
+      538.1052001993305,
+      1022.2371434277409,
+      558.9646362344868
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      25
+    ],
+    "source": "Anterior interventricular vein",
+    "chinese_lines": [
+      "前室间静脉"
+    ],
+    "box": [
+      805.9999989,
+      571.999999775,
+      1029.9999989,
+      589.999999775
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      26,
+      27
+    ],
+    "source": "Superior (pulmonary) / attachment of the right ventricle",
+    "chinese_lines": [
+      "右心室上方",
+      "（肺动脉侧）附着部"
+    ],
+    "box": [
+      881.8500633662766,
+      617.9999999763158,
+      1132.1655540889328,
+      658.999673629636
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      28
+    ],
+    "source": "Left atrioventricular groove",
+    "chinese_lines": [
+      "左房室沟"
+    ],
+    "box": [
+      907.7875110255819,
+      689.8471361365265,
+      1122.1978198634724,
+      711.1064850058502
+    ],
+    "alignment": "left",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      29
+    ],
+    "source": "Left fibrous trigone",
+    "chinese_lines": [
+      "左纤维三角"
+    ],
+    "box": [
+      87.66121097756792,
+      709.1323846010931,
+      238.3024921054976,
+      730.7914593844183
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      30
+    ],
+    "source": "Superolateral commissure",
+    "chinese_lines": [
+      "上外侧交界"
+    ],
+    "box": [
+      73.99999980576922,
+      769.9999999846154,
+      279.9999998057692,
+      785.9999999846154
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      31
+    ],
+    "source": "Coronary sinus",
+    "chinese_lines": [
+      "冠状窦"
+    ],
+    "box": [
+      185.67689427203533,
+      799.7700544378497,
+      304.22994908160564,
+      821.0743080160356
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      32
+    ],
+    "source": "Left circumflex artery",
+    "chinese_lines": [
+      "左回旋支"
+    ],
+    "box": [
+      169.77974409010204,
+      843.5560263790851,
+      338.2515000715473,
+      864.1944064297443
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      33
+    ],
+    "source": "Left atrioventricular groove",
+    "chinese_lines": [
+      "左房室沟"
+    ],
+    "box": [
+      159.81588516999182,
+      899.6364105333025,
+      370.1360755996793,
+      918.5903156388933
+    ],
+    "alignment": "right",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      34,
+      35
+    ],
+    "source": "Posterior mitral / leaflet (P2)",
+    "chinese_lines": [
+      "二尖瓣后瓣",
+      "（P2）"
+    ],
+    "box": [
+      415.99999990000003,
+      899.9999999868853,
+      541.9999999,
+      940.2629756726121
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      36,
+      37
+    ],
+    "source": "Free wall of the left / ventricular outflow tact",
+    "chinese_lines": [
+      "左心室流出道",
+      "游离壁"
+    ],
+    "box": [
+      554.0000000863637,
+      941.999999988,
+      736.0000000863638,
+      977.9999999681818
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      38,
+      39
+    ],
+    "source": "Superolateral / papillary muscie",
+    "chinese_lines": [
+      "上外侧",
+      "乳头肌"
+    ],
+    "box": [
+      741.6594588910314,
+      965.9999999833333,
+      874.2778365765782,
+      1009.7167560619062
+    ],
+    "alignment": "center",
+    "font_size": 20
+  },
+  {
+    "source_ocr_indices": [
+      3
+    ],
+    "source": "Superior",
+    "chinese_lines": [
+      "上"
+    ],
+    "box": [
+      793.9999998714286,
+      43.99999996428572,
+      869.9999998714286,
+      63.99999996428569
+    ],
+    "alignment": "center",
+    "font_size": 22
+  },
+  {
+    "source_ocr_indices": [
+      4,
+      5
+    ],
+    "source": "Right / posterior",
+    "chinese_lines": [
+      "右",
+      "后"
+    ],
+    "box": [
+      733.5362618324268,
+      67.9999999565217,
+      818.4256050941456,
+      111.04596649079664
+    ],
+    "alignment": "center",
+    "font_size": 22
+  },
+  {
+    "source_ocr_indices": [
+      7,
+      8
+    ],
+    "source": "Left / anterior",
+    "chinese_lines": [
+      "左",
+      "前"
+    ],
+    "box": [
+      849.7807882791722,
+      67.99999994999995,
+      930.1918142801487,
+      109.71486295819041
+    ],
+    "alignment": "center",
+    "font_size": 22
+  },
+  {
+    "source_ocr_indices": [
+      9
+    ],
+    "source": "Inferior",
+    "chinese_lines": [
+      "下"
+    ],
+    "box": [
+      797.8736113426735,
+      109.51008981581377,
+      866.1263884422829,
+      128.48991006727854
+    ],
+    "alignment": "center",
+    "font_size": 22
+  }
+]

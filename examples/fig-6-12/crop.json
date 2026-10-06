@@ -1,0 +1,19 @@
+{
+  "source_dimensions": [
+    1202,
+    1554
+  ],
+  "figure_crop": [
+    48,
+    20,
+    1182,
+    1062
+  ],
+  "caption_crop": [
+    155,
+    1070,
+    1080,
+    1546
+  ],
+  "coordinate_format": "left, top, right-exclusive, bottom-exclusive"
+}
