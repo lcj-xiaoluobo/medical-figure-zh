@@ -1,4 +1,4 @@
-# Medical Figure Chinese Labeler
+# Medical Figure · 医学图谱中文标注
 
 面向医学图谱出版与教学场景的 Codex Skill。它将图中英文标注翻译为权威、自然的中文，同时冻结解剖内容、画布尺寸、引线几何和标签对应关系。
 
@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/lcj-xiaoluobo/medical-figure-zh-labeler.git \
+git clone https://github.com/lcj-xiaoluobo/medical-figure-zh.git \
   ~/.codex/skills/medical-figure-zh-labeler
 ```
 
@@ -72,7 +72,7 @@ fig<TAB>width<TAB>height<TAB>x<TAB>y<TAB>w<TAB>h<TAB>text
 ## 仓库结构
 
 ```text
-medical-figure-zh-labeler/
+medical-figure-zh/
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── references/terminology.md
@@ -80,3 +80,5 @@ medical-figure-zh-labeler/
 ```
 
 处理第三方医学图片前，请确认拥有相应的编辑、翻译和发布权限。自动化不能替代医学专业人员对最终术语和指向关系的复核。
+
+仓库名称与本机技能调用名分别维护。安装目录保留 `medical-figure-zh-labeler`，以 `$medical-figure-zh-labeler` 调用。
